@@ -34,7 +34,7 @@ Special thanks to ***Anjan Kumar Panda*** for guidance and supervision of these 
 <!--- HYPER LINKS SECTION --->
 <!--- REPO LINKS SECTION --->
 [TBK1_repo]: https://github.com/anil-650/Human_TBK1_gene_analysis.git
-[KIF5A_repo]: https://github.com/Monalisa29-AI/KIF5A-Gene.git
+[KIF5A_repo]: https://github.com/Monalisa29-AI/KIF5A.git
 <!--- PROFILE LINKS SECTION --->
 [anil-650]: https://github.com/anil-659
 [Monalisa29-AI]: https://github.com/Monalisa29-AI
