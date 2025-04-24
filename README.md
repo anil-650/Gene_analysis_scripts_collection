@@ -10,6 +10,7 @@ This collection brings together various computational approaches and scripts for
 
 - [Human TBK1 Gene Analysis][TBK1_repo] - Python scripts using `re` for basic sequence analysis and visualization of the TBK1 gene. (by Anil Kumar Hansda [@anil-650][anil-650])
 - [Human KIF5A Gene Analysis][KIF5A_repo] - Python scripts for analysis and visualization of the KIF5A gene using `Biopython`. (by Monalisa Padhi [@Monalisa29-AI][Monalisa29-AI])
+- [Human UBQLN2 Gene Analysis][UBQLN2_repo] - Java Program for Analyzing and Interpreting Genomic and Proteomic Sequences of the UBQLN2 Gene using standard library. (by Suravi Panigrahi [@suravipanigrahi22][suravipanigrahi22])
 
 ### How to Contribute
 
@@ -35,6 +36,8 @@ Special thanks to ***Anjan Kumar Panda*** for guidance and supervision of these 
 <!--- REPO LINKS SECTION --->
 [TBK1_repo]: https://github.com/anil-650/Human_TBK1_gene_analysis.git
 [KIF5A_repo]: https://github.com/Monalisa29-AI/KIF5A.git
+[UBQLN2_repo]: https://github.com/suravipanigrahi22/UBQLN2-Gene
 <!--- PROFILE LINKS SECTION --->
 [anil-650]: https://github.com/anil-659
 [Monalisa29-AI]: https://github.com/Monalisa29-AI
+[suravipanigrahi22]: https://github.com/suravipanigrahi22
