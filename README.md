@@ -11,6 +11,8 @@ This collection brings together various computational approaches and scripts for
 - [Human TBK1 Gene Analysis][TBK1_repo] - Python scripts using `re` for basic sequence analysis and visualization of the TBK1 gene. (by Anil Kumar Hansda [@anil-650][anil-650])
 - [Human KIF5A Gene Analysis][KIF5A_repo] - Python scripts for analysis and visualization of the KIF5A gene using `Biopython`. (by Monalisa Padhi [@Monalisa29-AI][Monalisa29-AI])
 - [Human UBQLN2 Gene Analysis][UBQLN2_repo] - Java Program for Analyzing and Interpreting Genomic and Proteomic Sequences of the UBQLN2 Gene using standard library. (by Suravi Panigrahi [@suravipanigrahi22][suravipanigrahi22])
+- [Human VCP Gene Analysis][TBK1_repo] - Python script for basic sequence analysis of the VCP gene. (by Manas Kumar Parhi [@Manaskumarparhi][Manaskumarparhi])
+- [Human ALS2 Gene Analysis][ALS2_repo] - ALS2 gene sequence analysis and storing the output in json format using Python and Java. (by Abhishek Anand [@abhi261102][abhi261102])
 
 ### How to Contribute
 
@@ -37,7 +39,11 @@ Special thanks to ***Anjan Kumar Panda*** for guidance and supervision of these 
 [TBK1_repo]: https://github.com/anil-650/Human_TBK1_gene_analysis.git
 [KIF5A_repo]: https://github.com/Monalisa29-AI/KIF5A.git
 [UBQLN2_repo]: https://github.com/suravipanigrahi22/UBQLN2-Gene
+[VCP_repo]: https://github.com/Manaskumarparhi/gene-analysis.git
+[ALS2_repo]: https://github.com/abhi261102/ALS2-Gene_Analysis
 <!--- PROFILE LINKS SECTION --->
 [anil-650]: https://github.com/anil-659
 [Monalisa29-AI]: https://github.com/Monalisa29-AI
 [suravipanigrahi22]: https://github.com/suravipanigrahi22
+[Manaskumarparhi]: https://github.com/Manaskumarparhi
+[abhi261102]: https://github.com/abhi261102
