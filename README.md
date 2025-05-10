@@ -14,6 +14,7 @@ This collection brings together various computational approaches and scripts for
 - [Human VCP Gene Analysis][TBK1_repo] - Python script for basic sequence analysis of the VCP gene. (by Manas Kumar Parhi [@Manaskumarparhi][Manaskumarparhi])
 - [Human ALS2 Gene Analysis][ALS2_repo] - ALS2 gene sequence analysis and storing the output in json format using Python and Java. (by Abhishek Anand [@abhi261102][abhi261102])
 - [Human TMEM175 Gene Analysis][TMEM175_repo] - Python scripts for analysis and visualization of the TMEM175 gene using `Biopython`. (by Madhumita Padhi [@Madhumita1021][Madhumita1021])
+- [Human C21ORF2 Gene Analysis][C21ORF2_repo] - Python scripts for analysis and visualization of the C21ORF2 gene using `Biopython` and `seaborn`. (by Prashant Kumar [@PrashantKumar1510][PrashantKumar1510])
 
 ### How to Contribute
 
@@ -43,6 +44,7 @@ Special thanks to ***Anjan Kumar Panda*** for guidance and supervision of these 
 [VCP_repo]: https://github.com/Manaskumarparhi/gene-analysis.git
 [ALS2_repo]: https://github.com/abhi261102/ALS2-Gene_Analysis
 [TMEM175_repo]: https://github.com/Madhumita1021/TMEM175
+[C21ORF2_repo]: https://github.com/PrashantKumar1510/C21orf2.git
 <!--- PROFILE LINKS SECTION --->
 [anil-650]: https://github.com/anil-659
 [Monalisa29-AI]: https://github.com/Monalisa29-AI
@@ -50,3 +52,4 @@ Special thanks to ***Anjan Kumar Panda*** for guidance and supervision of these 
 [Manaskumarparhi]: https://github.com/Manaskumarparhi
 [abhi261102]: https://github.com/abhi261102
 [Madhumita1021]: https://github.com/Madhumita1021
+[PrashantKumar1510]: https://github.com/PrashantKumar1510
